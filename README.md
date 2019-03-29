@@ -6,8 +6,11 @@ contain stars with g band magnitude between 14 and 20 and stellar type of G0 to 
 F0 to F9, K0 to K9 and M0 to M9. In addition to WCS coordinates of the stars, a generated
 catalog includes the pixel coordinates on the CCDs. The following magnitudes are also
 generated:
+
 DES magnitudes: u g r i z
+
 Gaia magnitudes: G BP RP RVS
+
 CFHT magnitude: u g r i z
 
 Installation
